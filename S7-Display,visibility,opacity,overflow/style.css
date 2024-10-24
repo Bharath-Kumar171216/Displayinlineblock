@@ -1,0 +1,94 @@
+#Dmainheading{
+    background-color: blueviolet;
+    color: aqua;
+    text-align: center;
+    font-size: 5rpm;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif   ;
+    text-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 10px black;
+}
+#Dname{
+    color: hotpink;
+    font-size: 4rpm;
+}
+#Dimage{
+    opacity: 0.7;
+    height: 500px;
+    width: 500px;
+}
+#Dpara{
+    display:inline-block;
+    text-align: justify;
+    color: hotpink;
+    height: 500px;
+    width: 900px;       
+    overflow: auto;
+}
+#vheading{
+    font-size: 4rpm;
+    color: darkblue;
+}
+#vimage{
+    opacity: 0.7;
+    height: 500px;
+    width: 500px;
+}
+#vpara{
+    display:inline-block;
+    text-align: justify;
+    color: darkblue;
+    height: 500px;
+    width: 900px;       
+    overflow: auto;
+}
+#rheading{
+    font-size: 4rpm;
+    color: rebeccapurple;
+}
+#rimage{
+    opacity: 0.7;
+    height: 500px;
+    width: 500px;
+}
+#rpara{
+    display:inline-block;
+    text-align: justify;
+    color: rebeccapurple;
+    height: 500px;
+    width: 900px;       
+    overflow: auto;
+}
+#sheading{
+    font-size: 4rpm;
+    color: green;
+}
+#simage{
+    opacity: 0.7;
+    height: 500px;
+    width: 500px;
+}
+#spara{
+    display:inline-block;
+    text-align: justify;
+    color: green;
+    height: 500px;
+    width: 900px;       
+    overflow: auto;
+}
+#hheading{
+    font-size: 4rpm;
+    color: red;
+}
+#himage{
+    opacity: 0.7;
+    height: 500px;
+    width: 500px;
+}
+#hpara{
+    display:inline-block;
+    text-align: justify;
+    height: 500px;
+    width: 900px;       
+    overflow: auto;
+    color: red;
+}
